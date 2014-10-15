@@ -106,3 +106,18 @@ nav {
 section {
   margin-left: 200px;
 }
+
+article img {
+  float: right;
+  width: 50%;
+}
+
+nav {
+  float: left;
+  width: 25%;
+}
+
+section {
+  margin-left: 25%;
+}
+
