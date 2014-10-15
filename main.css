@@ -82,3 +82,14 @@ img {
   margin: 0 0 1em 1em;
 }
 
+.box {
+  float: left;
+  width: 200px;
+  height: 100px;
+  margin: 1em;
+}
+
+.after-box {
+  clear: left;
+}
+
