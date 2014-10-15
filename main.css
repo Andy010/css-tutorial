@@ -93,3 +93,8 @@ img {
   clear: left;
 }
 
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+
